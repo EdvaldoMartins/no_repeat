@@ -1,8 +1,15 @@
  
-## Features
+## Installation
 
 ```
-flutter pub run gen_structure:initialize
+dev_dependencies:
+ no_repeat:
+    git:
+      url: https://github.com/EdvaldoMartins/no_repeat
+```
+
+```
+flutter pub run no_repeat:initialize
 ```
 
 ```
