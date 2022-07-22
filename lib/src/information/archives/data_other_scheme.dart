@@ -178,6 +178,11 @@ dev_dependencies:
   build_resolvers: ^2.0.1
   gen_i18n: ^1.0.0
   no_repeat:
+    git:
+      url: https://github.com/EdvaldoMartins/no_repeat
+  
+  /// remove this    
+  no_repeat:
     path: ../
 
   # Testing
